@@ -1,4 +1,4 @@
-# 🤖 AI Personal Assistant (Streamlit + n8n)
+# 🤖 AI Personal Assistant (n8n + Streamlit)
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
